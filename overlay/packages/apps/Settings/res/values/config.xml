@@ -18,6 +18,9 @@
     <!-- Whether to show the Preference for Adaptive connectivity -->
     <bool name="config_show_adaptive_connectivity">false</bool>
 
+    <!-- Smartcharging -->
+    <bool name="config_supportSmartCharging">true</bool>
+
     <!-- Battery health -->
     <bool name="config_supportBatteryHealth">true</bool>
     <string name="config_batteryCalculatedCapacity">/sys/class/power_supply/bms/charge_full</string>
